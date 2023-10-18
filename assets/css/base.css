@@ -4,7 +4,7 @@ body {
     align-items: center;
     animation: gradient 40s ease infinite;
     background-size: 300% 300%;
-    background-color: rgb(116, 0, 248);
+    background-color: #ebe817;
     font-family: Arial, Helvetica, sans-serif;
 }
 
